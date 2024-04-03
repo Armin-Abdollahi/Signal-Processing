@@ -10,3 +10,8 @@ I will begin with a brief introduction to EEG signals. Then, I will introduce yo
 Don't forget to like, comment, and subscribe for more tutorials on MATLAB and other data analysis tools.
 
 ![ezgif com-optimize](https://github.com/Armin-Abdollahi/Signal-Processing/assets/103449830/c06959ee-3d56-452b-92dd-03639cc84810)
+
+
+## MNE Library
+You can see the Tutorial video on my YouTube channel:
+
