@@ -29,4 +29,4 @@ Remember to hit the like button, drop your thoughts in the comments, and subscri
 
 Note: This video focuses on MNE-Python for EEG analysis. For tutorials on MATLAB and EEGLAB, stay tuned to our channel!
 
-![LogoMNE](https://github.com/Armin-Abdollahi/Signal-Processing/assets/103449830/2dc1e3fa-d74d-4a11-a4d2-a11a87042cfd)
+![Screenshot (1096)](https://github.com/Armin-Abdollahi/Signal-Processing/assets/103449830/2730b2ba-fe95-4afa-8b59-3eec1251cd62)
