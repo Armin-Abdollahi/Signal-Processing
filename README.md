@@ -13,6 +13,10 @@ Don't forget to like, comment, and subscribe for more tutorials on MATLAB and ot
 
 
 ## MNE Library
+
+![MNE](https://github.com/Armin-Abdollahi/Signal-Processing/assets/103449830/807f425f-f32d-4944-8499-7e9cc6de4602)
+
+
 You can see the Tutorial video on my YouTube channel: 
 
 Embark on a journey through the intricacies of EEG data analysis with our latest tutorial on MNE-Python! 🧠💻
