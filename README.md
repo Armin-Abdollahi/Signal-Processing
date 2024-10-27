@@ -1,23 +1,10 @@
 # Signal Processing
 
-## EEGLAB Toolbox
-You can see the Tutorial video on my YouTube channel: https://www.youtube.com/watch?v=-DQS0o_t5DI&t=17s
-
-In this video, I will walk you through the basics of EEG signal processing and analysis using the powerful EEGLAB toolbox.
-
-I will begin with a brief introduction to EEG signals. Then, I will introduce you to some analysis software for EEG signals. Finally, I will guide you through the interface and features of EEGLAB, and help you import EEG data, pre-process it, and remove artifacts. By the end of this video, you will have a solid understanding of how to use EEGLAB for your own EEG data analysis projects.
-
-Don't forget to like, comment, and subscribe for more tutorials on MATLAB and other data analysis tools.
-
-![ezgif com-optimize](https://github.com/Armin-Abdollahi/Signal-Processing/assets/103449830/c06959ee-3d56-452b-92dd-03639cc84810)
-
-
 ## MNE Library
 
-![MNE](https://github.com/Armin-Abdollahi/Signal-Processing/assets/103449830/807f425f-f32d-4944-8499-7e9cc6de4602)
+https://github.com/user-attachments/assets/883be388-98d3-48aa-a12d-7b3e211a0eaa
 
-
-You can see the Tutorial video on my YouTube channel: 
+You can see the Tutorial video on my YouTube channel: https://youtu.be/lEUmgSFQaAY?si=cleiGy5MDbQBQmla
 
 Embark on a journey through the intricacies of EEG data analysis with our latest tutorial on MNE-Python! 🧠💻
 
@@ -33,4 +20,21 @@ Remember to hit the like button, drop your thoughts in the comments, and subscri
 
 Note: This video focuses on MNE-Python for EEG analysis. For tutorials on MATLAB and EEGLAB, stay tuned to our channel!
 
-![Screenshot (1096)](https://github.com/Armin-Abdollahi/Signal-Processing/assets/103449830/2730b2ba-fe95-4afa-8b59-3eec1251cd62)
+https://github.com/user-attachments/assets/dba5900a-34ba-4468-8c06-03024cdd256b
+
+
+---
+
+## EEGLAB Toolbox
+You can see the Tutorial video on my YouTube channel: https://www.youtube.com/watch?v=-DQS0o_t5DI&t=17s
+
+In this video, I will walk you through the basics of EEG signal processing and analysis using the powerful EEGLAB toolbox.
+
+I will begin with a brief introduction to EEG signals. Then, I will introduce you to some analysis software for EEG signals. Finally, I will guide you through the interface and features of EEGLAB, and help you import EEG data, pre-process it, and remove artifacts. By the end of this video, you will have a solid understanding of how to use EEGLAB for your own EEG data analysis projects.
+
+Don't forget to like, comment, and subscribe for more tutorials on MATLAB and other data analysis tools.
+
+👍 Like | 💬 Comment | 🔔 Subscribe
+
+https://github.com/user-attachments/assets/f84f81b0-fb6d-4eca-a24d-0802c20729a8
+
